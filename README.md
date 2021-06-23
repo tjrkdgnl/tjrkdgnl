@@ -1,15 +1,23 @@
 ## <div align="center"> Hi there!👋 I'm mobile applicaion developer using Android </div>
     
 
-### <div align="center">  Currently, I am studying Algorithms and CS to become a better developer.  </div>
+### <br><div align="center">  Currently, I am studying Algorithms and CS to become a better developer </div></br>
 
 
-### 🎓Stack
+## <div align="center"> 🎓 Technology Stack 🎓 </div>
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=flat-square&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=flat-square&logo=C# &logoColor=white"/>
+<div align= "center">   
+<span><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C#&logoColor=white"/></span>
+</div>
+
+<div align= "center">
+<span><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></span>
+</div>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjrkdgnl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
