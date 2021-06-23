@@ -1,6 +1,15 @@
-#### Hi there!👋 I'm mobile applicaion developer using Android 
+## <div align="center"> Hi there!👋 I'm mobile applicaion developer using Android </div>
+    
 
-#### Currently, I am studying Algorithms and CS to become a better developer. 
+### <div align="center">  Currently, I am studying Algorithms and CS to become a better developer.  </div>
+
+
+### 🎓Stack
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=flat-square&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=flat-square&logo=C# &logoColor=white"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjrkdgnl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
