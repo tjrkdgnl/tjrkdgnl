@@ -13,7 +13,7 @@
 - Git으로 협업하는 방법 
 
 ## Contact Me
-<span><a href="skh08188@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></span>
+<span><a href="mailto:skh08188@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></span>
 
 
 ## 🎓 Technology Stack 🎓   
