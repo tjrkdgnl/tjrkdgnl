@@ -5,7 +5,7 @@
 ## 최근 관심사🔥
 - MVVM Design Pattern
 - Hilt
-- coroutine 사용법 
+- Coroutine 사용법 
 - Diagram 작성법 
 - Git으로 협업하는 방법 
 
