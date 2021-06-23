@@ -1,4 +1,6 @@
-### 👋 Hi there! i'm mobile applicaion developer using Android 
+#### Hi there!👋 I'm mobile applicaion developer using Android 
+
+#### Currently, I am studying Algorithms and CS to become a better developer. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjrkdgnl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
