@@ -23,6 +23,7 @@
 <span><img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C#&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tjrkdgnl&count_private=true)"/>
+
+<br><img src="https://github-readme-stats.vercel.app/api?username=tjrkdgnl&count_private=true)"/></br>
 
 
